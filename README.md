@@ -26,21 +26,21 @@ The dashboard provides a high-level overview of how population characteristics v
 	•	Data Cleaning & Transformation
 
   🔍 Key Insights
-	 Global population is rapidly growing
+	1.  Global population is rapidly growing
 	•	The world population has reached 8.3 billion, showing continued growth pressure on resources.
-		Inverse relationship between fertility and median age
+	2.	Inverse relationship between fertility and median age
 	•	Countries with high fertility rates tend to have lower median ages, while developed countries show the opposite trend.
-		Population is highly concentrated
+	3.	Population is highly concentrated
 	•	A few countries like India and China dominate global population, significantly more than others.
-		Urbanization is increasing
+	4.	Urbanization is increasing
 	•	Countries like the USA and Brazil have very high urban population percentages, indicating strong urban migration.
-		Migration is uneven across countries
+	5.	Migration is uneven across countries
 	•	Some countries (e.g., USA, UK) attract more migrants, while others experience lower inflows or even outflows.
 
 💡 Recommendations
-		Plan for aging populations
+	1.	Plan for aging populations
 	•	Countries with high median age should invest in healthcare, pensions, and workforce sustainability.
-		Manage rapid population growth
+	2.	Manage rapid population growth
 	•	High-fertility countries should focus on education, job creation, and infrastructure development.
-		Support balanced urban development
+	3.	Support balanced urban development
 	•	Governments should improve rural areas to reduce overdependence on cities and prevent urban overcrowding.
